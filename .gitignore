@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 27 16:42:51 2025
+
+@author: imageanalysis
+"""
+
+# Ignore all .tif files (they're big, not code)
+*.tif
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Spyder project settings
+.spyderproject
+.spyproject
+
+# Ignore Mac system file
+.DS_Store
