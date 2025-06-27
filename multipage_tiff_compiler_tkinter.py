@@ -63,7 +63,7 @@ def read_tif_files(cycle=None):
                 
 
 
-read_tif_files(cycle='Cycle00001')
+read_tif_files()
 
 
 
